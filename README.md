@@ -40,6 +40,6 @@ Le projet se compose de plusieurs fichiers source en C responsables de la gestio
 - Nathan Thiery
 - Ozan Gunes
 
-# Note obtenue
+## Note obtenue
 
 Projet noté **14/20** à l'université Jean Monnet (année 2023-2024)
